@@ -1,0 +1,11 @@
+business
+entertainment
+general
+health
+science
+sports
+technology
+
+
+
+<News pageSize ={6} country ={"in"} category ={"sports"}/>
